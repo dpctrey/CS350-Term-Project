@@ -1,0 +1,1 @@
+public enum JobStatus {NEW, WAITING, READY, RUNNING, FINISHED}; //The different states available to a job.

@@ -1,0 +1,13 @@
+Job Class
+	jobID = int
+	memRequestInMB = int
+	executionTimeRequest = int
+	segmentNum = int
+	executionTimeRemaining = int
+	jobStatus = enum
+
+Memory Information Class
+	segmentNum = int
+	sizeInMB = int
+	segmentInUse = boolean
+	wastedSpaceInMB = int

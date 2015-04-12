@@ -1,0 +1,6 @@
+Job Scheduling  - FIFO
+                - SJF
+Memory Allocation   - First Fit
+                    - Best Fit
+
+CPU Scheduling  - Round Robin on 4 CPUs
